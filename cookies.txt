@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+lasik2c.com	TRUE	/	FALSE	1999999999	288623fa2238c7171462d16bad468be1	d48e92997dd943e44ff51b39f508ed2c
+
